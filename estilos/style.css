@@ -9,7 +9,7 @@
 html, body {
     height: 100vh;
     width: 100vw;
-    background-color: black;
+    background-color: #000000;
     
 }
 
@@ -39,8 +39,8 @@ iframe#tela {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 479px;
-    width: 270px;
+    height: 475px;
+    width: 268px;
 }
 
 section#redes-sociais {
